@@ -269,8 +269,6 @@ header{
 }
 .mod-panel .panel-left .btn span.name{
     display: inline-block;
-    padding-right: 30px;
-    background: url('../image/scan.png') right center / 16px 16px no-repeat;
 }
 .mod-panel .panel-left .btn span.qrcode{
     display: none;
