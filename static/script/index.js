@@ -32,15 +32,3 @@
     togglePanel(0);
 })();
 
-// 底部滚动
-(function(){
-    let $gotop = document.querySelector('.mod-fixedbar .gotop');
-    let $container = document.querySelector('.scroll-container');
-    $gotop.addEventListener('click',function(){
-        $container.scrollTo({
-            left:0,
-            top:0,
-            behavior:'smooth'
-        });
-    });
-})();

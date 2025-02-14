@@ -73,7 +73,7 @@
         "build": "rollup -c && gulp && npm run test",
         "watch": "rollup -wc"
     },
-    "homepage": "https://passer-by.com/relationship/",
+    "homepage": "https://tools.xxcc.fun/relationship/",
     "directories": {
         "test": "test"
     }
